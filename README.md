@@ -2,7 +2,7 @@
 Projects developed under the Data Mining I college chair during the 2019/2020 school year
 
 
-# Prediction of Air Population
+# Prediction of Air Pollution
 
 This project provides a study of the data about Air Pollution in Beijing, China. We first analyse and describe the characteristics and relationships between the variables in the Beijing Multi-Site Air-Quality Data Data Set. Then we process the data and build different models to get predictions and review their
 performances. 
